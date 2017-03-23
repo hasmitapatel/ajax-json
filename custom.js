@@ -25,6 +25,7 @@ xhr.open('GET', 'data-2.json')
 	xhr.send()
 
 button = document.querySelector('.show')
+
 button.addEventListener('click', function () {
 	xhr.open('GET', 'data.json')
 	xhr.send()

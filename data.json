@@ -1,24 +1,20 @@
 {
-	"artists" : [
-		{
-			"name": "Salvador Dali",
-			"title": "The Persistence of Memory",
-			"medium": "Painting", 
-			"work": "images/persistence-of-memory.jpg"
-		},
-		{
-			"name": "Salvador Dali",
-			"title": "Swans reflecting elephants",
-			"medium": "Painting", 
-			"work": "images/Swans_reflecting_elephants.jpg"
-		},
-		{
-			"name": "Salvador Dali",
-			"title": "The First Days of Spring",
-			"medium": "Painting", 
-			"work": "images/The_First_Days_of_Spring.jpg"
-		}
-
-	]
-	
+  "artists": [{
+    "name": "Fleck",
+    "title": "Lucky Shot",
+    "medium": "Canvas print",
+    "work": "images/lucky-shot.jpg"
+  },
+  {
+    "name": "Nicebleed",
+    "title": "Bleed",
+    "medium": "Canvas print",
+    "work": "images/bleed.jpg"
+  }, 
+  {
+    "name": "Balazs Solti",
+    "title": "The Clown",
+    "medium": "Canvas print",
+    "work": "images/the-clown.jpg"
+  }]
 }
